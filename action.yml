@@ -70,7 +70,7 @@ inputs:
       Flag for enabling or disabling NFS logging
   aws-nfs-host:
     description: >-
-      NFS fost in AWS for logging
+      NFS host in AWS for logging
     required: false
   github-runner-version:
     description: >-
